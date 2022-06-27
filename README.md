@@ -29,6 +29,8 @@ I prefer
 <!-- CHANGE-02 ...username=myname myname yerine github user name yaz -->
 - [x] [Data-Analysis-with-Python](https://github.com/fatma-guler/Data-Analysis-with-Python)
 
+- [x] [Data-Analysis-with-MSSQL](https://github.com/fatma-guler/Data-Analysis-with-MSSQL)
+
 - [x] I'm currently learning: Python (I am furthering my knowledge of python modules (Numpy etc.) within a specific program.)
 
 - [x] My future goal is to advance my Python Programing and Data Science knowledge.
